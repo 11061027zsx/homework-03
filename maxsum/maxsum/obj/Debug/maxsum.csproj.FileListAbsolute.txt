@@ -1,0 +1,13 @@
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\bin\Debug\maxsum.exe.config
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\bin\Debug\maxsum.exe
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\bin\Debug\maxsum.pdb
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.csprojResolveAssemblyReference.cache
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\MainWindow.baml
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\MainWindow.g.cs
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\App.g.cs
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum_MarkupCompile.cache
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.g.resources
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.Properties.Resources.resources
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.csproj.GenerateResource.Cache
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.exe
+c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Debug\maxsum.pdb

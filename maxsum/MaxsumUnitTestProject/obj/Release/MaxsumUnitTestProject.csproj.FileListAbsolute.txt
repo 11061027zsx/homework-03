@@ -1,0 +1,5 @@
+C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\MaxsumUnitTestProject\bin\Release\MaxsumUnitTestProject.dll
+C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\MaxsumUnitTestProject\bin\Release\MaxsumUnitTestProject.pdb
+C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\MaxsumUnitTestProject\obj\Release\MaxsumUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\MaxsumUnitTestProject\obj\Release\MaxsumUnitTestProject.dll
+C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\MaxsumUnitTestProject\obj\Release\MaxsumUnitTestProject.pdb
