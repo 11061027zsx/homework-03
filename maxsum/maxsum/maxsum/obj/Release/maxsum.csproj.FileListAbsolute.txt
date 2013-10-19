@@ -11,16 +11,3 @@ c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Release\max
 c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Release\maxsum.exe
 c:\users\zsx\documents\visual studio 2012\Projects\maxsum\maxsum\obj\Release\maxsum.pdb
 C:\Users\zsx\Documents\Visual Studio 2012\Projects\maxsum\maxsum\obj\Release\maxsum.csprojResolveAssemblyReference.cache
-C:\Users\zsx\Desktop\maxsum\maxsum\bin\Release\maxsum.exe.config
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.exe
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.pdb
-C:\Users\zsx\Desktop\maxsum\maxsum\bin\Release\maxsum.exe
-C:\Users\zsx\Desktop\maxsum\maxsum\bin\Release\maxsum.pdb
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.csprojResolveAssemblyReference.cache
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\MainWindow.baml
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\MainWindow.g.cs
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\App.g.cs
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum_MarkupCompile.cache
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.g.resources
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.Properties.Resources.resources
-C:\Users\zsx\Desktop\maxsum\maxsum\obj\Release\maxsum.csproj.GenerateResource.Cache
